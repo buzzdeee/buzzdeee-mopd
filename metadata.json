@@ -1,0 +1,17 @@
+{
+  "name": "sebastia-mopd",
+  "version": "0.1.0",
+  "author": "sebastia",
+  "summary": "A puppet module to manage mopd",
+  "license": "Apache-2.0",
+  "source": "https://github.com/buzzdeee/buzzdeee-mopd.git",
+  "project_page": "https://github.com/buzzdeee/buzzdeee-mopd",
+  "issues_url": "https://github.com/buzzdeee/buzzdeee-mopd/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
